@@ -1,4 +1,4 @@
-# Gesture Recognition Case study III-TB Assignment (https://github.com/techexorcist)
+# Gesture Recognition Case study IIIT-B Assignment (https://github.com/techexorcist)
 
 
 Developed by:
