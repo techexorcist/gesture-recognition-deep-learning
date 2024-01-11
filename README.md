@@ -1,4 +1,4 @@
-# Gesture Recognition Case study IIIT-B Assignment (https://github.com/techexorcist)
+# Gesture Recognition Case study IIIT-B Assignment [![](https://img.shields.io/badge/-Vinodh%20Nagarajaiah-yellowgreen?logo=github&logoColor=white&style=plastic&logoWidth=24)](https://github.com/techexorcist)
 
 
 Developed by:
